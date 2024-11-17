@@ -1,0 +1,14 @@
+{
+  "name": "live-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pnpm --prefix server start && pnpm --prefix client start",
+    "server:start": "pnpm --prefix server start",
+    "client:start": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
